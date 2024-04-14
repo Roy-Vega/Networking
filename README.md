@@ -11,4 +11,4 @@ This project establishes a structured network with WAN, LAN, and DMZ segments. T
 
 Feel free to explore the project directories for more detailed documentation and resources.
 
-For any questions, please contact me at [LinkedIn](https://www.linkedin.com/in/roy-vega) or via email at roy-vega@outlook.com
+For any questions, please contact me at [LinkedIn](https://www.linkedin.com/in/roy-vega).
